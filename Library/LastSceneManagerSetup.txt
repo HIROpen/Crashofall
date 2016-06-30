@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/GDG_Assets/Scenes/Instructions.unity
+- path: Assets/mainScene/main.unity
   isLoaded: 1
   isActive: 1
