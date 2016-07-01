@@ -8,7 +8,7 @@ public class BallScript : MonoBehaviour {
 
         // Use this for initialization
         void Start () {
-          
+
 
         }
 
@@ -23,6 +23,7 @@ public class BallScript : MonoBehaviour {
 
 
         }
+      
 
 
 }

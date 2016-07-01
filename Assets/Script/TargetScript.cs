@@ -14,9 +14,10 @@ public class TargetScript : MonoBehaviour {
 
         }
         void OnTriggerEnter(Collider other){
-                if(other.gameObject.name=="ball") {
+                if(other.gameObject.tag=="Ball") {
                         ScoreScript.TargetCount+=1;
                         Destroy(this.gameObject);
                 }
         }
+
 }
